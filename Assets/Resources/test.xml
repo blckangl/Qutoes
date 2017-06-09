@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MoodsList>
+  <happy>
+    <mood name="happy">
+      <advice> live for today</advice>
+    </mood>
+    <mood name="sad" >
+      <advice> fuck everyone </advice>
+    </mood>
+    <mood name="happy">
+      <advice> do what ever you want</advice>
+    </mood>
+    <mood name="happy">
+      <advice> you are so beautiful :D </advice>
+    </mood>
+    <mood name="fedup">
+      <advice>do something asshole </advice>
+    </mood>
+  </happy>
+</MoodsList>
